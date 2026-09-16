@@ -1,0 +1,6 @@
+{
+  "name": "FilaDial - Fila de Ligações & WhatsApp Multi-Atendente",
+  "description": "Aplicativo de ligações em fila e WhatsApp com discagem rápida, controle de concorrência para até 5 operadores simultâneos, painel gerencial em tempo real e integração via API com CRMs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
